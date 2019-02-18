@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "356048917732",
+    "firebase_url": "https://dgspuanhesaplama-65129.firebaseio.com",
+    "project_id": "dgspuanhesaplama-65129",
+    "storage_bucket": "dgspuanhesaplama-65129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356048917732:android:476cfc1cfde6c3fa",
+        "android_client_info": {
+          "package_name": "com.dg.dgspuanhesaplama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356048917732-9uquadqo339cv2u8h5m5k6okqp8ibquh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dg.dgspuanhesaplama",
+            "certificate_hash": "177a019ef847474119961aa848266b3ab08b06a5"
+          }
+        },
+        {
+          "client_id": "356048917732-m6o4jnhum1nnhr280i9vjmquru780fja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQhUxw-WmCQliVN-hD0ZdIlf83EkPhME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356048917732-m6o4jnhum1nnhr280i9vjmquru780fja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

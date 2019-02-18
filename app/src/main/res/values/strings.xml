@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dgs Puan Hesaplama</string>
+    <string name="turkce">Sözel:</string>
+    <string name="matematik">Sayısal:</string>
+    <string name="dogru">Doğru</string>
+    <string name="tire">-</string>
+    <string name="yanlis">Yanlış</string>
+    <string name="obp">Önlisans Başarı Puanı (40-80)</string>
+    <string name="onceki">Önceki sene bir bölüme yerleştim</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="temizle">Temizle</string>
+    <string name="sayisal">Sayısal:</string>
+    <string name="sozel">Sözel:</string>
+    <string name="esit">Eşit Ağırlık:</string>
+    <string name="gun">Gün</string>
+    <string name="saat">Saat</string>
+    <string name="dakika">Dakika</string>
+    <string name="saniye">Saniye</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1247115326562939/6583854723</string>
+</resources>
